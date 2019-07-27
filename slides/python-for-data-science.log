@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.6.21)  26 JUL 2019 20:34
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.6.21)  27 JUL 2019 10:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1377,6 +1377,30 @@ LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
 ] [8
 
 ]
+File: images/leather-shoes-google.png Graphic file (type bmp)
+<images/leather-shoes-google.png>
+ [9
+
+]
+File: images/facebook-ads.png Graphic file (type bmp)
+<images/facebook-ads.png>
+ [10
+
+]
+File: images/facebook-ads-why-am-i-seeing.png Graphic file (type bmp)
+<images/facebook-ads-why-am-i-seeing.png>
+ [11
+
+]
+File: images/facebook-ads-details.png Graphic file (type bmp)
+<images/facebook-ads-details.png>
+ [12
+
+] [13
+
+] [14
+
+]
 \tf@nav=\write7
 \openout7 = `python-for-data-science.nav'.
 
@@ -1386,19 +1410,19 @@ LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
 \tf@snm=\write9
 \openout9 = `python-for-data-science.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 81.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 146.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 146.
  (./python-for-data-science.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 81.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 81.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 146.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 146.
  ) 
 Here is how much of TeX's memory you used:
- 35697 strings out of 494988
- 731043 string characters out of 6178638
- 828683 words of memory out of 5000000
- 38960 multiletter control sequences out of 15000+600000
- 535416 words of font info for 58 fonts, out of 8000000 for 9000
+ 35756 strings out of 494988
+ 732593 string characters out of 6178638
+ 830817 words of memory out of 5000000
+ 39012 multiletter control sequences out of 15000+600000
+ 535424 words of font info for 59 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 50i,13n,79p,10491b,680s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,13n,88p,10491b,680s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on python-for-data-science.pdf (8 pages).
+Output written on python-for-data-science.pdf (14 pages).
