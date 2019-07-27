@@ -44,8 +44,10 @@
 \headcommand {\beamer@subsectionentry {0}{2}{1}{19}{Python environments}}
 \headcommand {\slideentry {2}{1}{1}{19/19}{Python environments}{0}}
 \headcommand {\beamer@framepages {19}{19}}
-\headcommand {\beamer@partpages {1}{19}}
-\headcommand {\beamer@subsectionpages {19}{19}}
-\headcommand {\beamer@sectionpages {15}{19}}
-\headcommand {\beamer@documentpages {19}}
-\headcommand {\gdef \inserttotalframenumber {16}}
+\headcommand {\slideentry {2}{1}{2}{20/33}{Python environments}{0}}
+\headcommand {\beamer@framepages {20}{33}}
+\headcommand {\beamer@partpages {1}{33}}
+\headcommand {\beamer@subsectionpages {19}{33}}
+\headcommand {\beamer@sectionpages {15}{33}}
+\headcommand {\beamer@documentpages {33}}
+\headcommand {\gdef \inserttotalframenumber {17}}

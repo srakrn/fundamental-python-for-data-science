@@ -1,5 +1,18 @@
 \frametitle{Environments 101: \texttt{\$PATH}}
-    \begin{lstlisting}[style=defaultstyle, language=bash]
-$ echo $PATH
-/home/srakrn/.pyenv/plugins/pyenv-virtualenv/shims:/home/srakrn/.pyenv/shims:/home/srakrn/.pyenv/bin:/home/srakrn/.local/bin:/usr/local/bin:/usr/local/sbin:/home/srakrn/.local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
-    \end{lstlisting}
+    \begin{multicols}{2}
+        \begin{itemize}[<+(1)->]
+            \item \texttt{/home/srakrn/.pyenv/plugins/pyenv-virtualenv/shims}
+            \item \texttt{/home/srakrn/.pyenv/shims}
+            \item \texttt{/home/srakrn/.pyenv/bin}
+            \item \texttt{/home/srakrn/.local/bin:/usr/local/bin}
+            \item \texttt{/usr/local/sbin}
+            \item \texttt{/home/srakrn/.local/bin}
+            \item \texttt{/usr/sbin}
+            \item \texttt{/usr/bin}
+            \item \texttt{/sbin}
+            \item \texttt{/bin}
+            \item \texttt{/usr/games}
+            \item \texttt{/usr/local/games}
+            \item \texttt{/snap/bin}
+        \end{itemize}
+    \end{multicols}
