@@ -1,0 +1,5 @@
+\frametitle{Environments 101: \texttt{\$PATH}}
+    \begin{lstlisting}[style=defaultstyle, language=bash]
+$ echo $PATH
+/home/srakrn/.pyenv/plugins/pyenv-virtualenv/shims:/home/srakrn/.pyenv/shims:/home/srakrn/.pyenv/bin:/home/srakrn/.local/bin:/usr/local/bin:/usr/local/sbin:/home/srakrn/.local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+    \end{lstlisting}
