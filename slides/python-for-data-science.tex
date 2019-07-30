@@ -30,7 +30,7 @@
     keywordstyle=\color{magenta},
     numberstyle=\tiny\color{codegray},
     stringstyle=\color{codepurple},
-    basicstyle=\footnotesize,
+    basicstyle=\ttfamily,
     breakatwhitespace=false,         
     breaklines=true,                 
     captionpos=b,                    
@@ -199,6 +199,22 @@
 \end{frame}
 
 \begin{frame}
+    \frametitle{Python Packages}
+    \begin{columns}
+        \column{0.4\textwidth}
+            \begin{center}
+                {\onslide<2-> \Huge \texttt{pip}}
+            \end{center}
+        \column{0.6\textwidth}
+            \begin{itemize}[<+(2)->]
+                \item \textbf{PyPA} (\textbf{Py}thon \textbf{P}ackaging \textbf{A}uthority)'s recommended package installer
+                \item Obtains packages from \textbf{PyPI} (\textbf{Py}thon \textbf{P}ackaging \textbf{I}ndex)
+                \item Many useful packages for us to use!
+            \end{itemize}
+    \end{columns}
+\end{frame}
+
+\begin{frame}
     \frametitle{...yet sometimes I still feels bad with it.}
     \centering
     \includegraphics[scale=0.35]{images/xkcd-python-env.png}
@@ -235,4 +251,5 @@ $ echo $PATH
         \end{itemize}
     \end{multicols}
 \end{frame}
+
 \end{document}
