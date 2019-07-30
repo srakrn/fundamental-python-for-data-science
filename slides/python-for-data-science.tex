@@ -44,6 +44,26 @@
     tabsize=4
 }
 
+\lstdefinestyle{defaultstyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    showlines=false,
+    tabsize=4
+}
+
 \lstset{
 	escapeinside=||
 }
@@ -226,30 +246,17 @@
 
 \begin{frame}[fragile]
     \frametitle{Environments 101: \texttt{\$PATH}}
-    \begin{lstlisting}[style=defaultstyle, language=bash]
+    \begin{lstlisting}[style=defaultstyle]
 $ echo $PATH
 /home/srakrn/.pyenv/plugins/pyenv-virtualenv/shims:/home/srakrn/.pyenv/shims:/home/srakrn/.pyenv/bin:/home/srakrn/.local/bin:/usr/local/bin:/usr/local/sbin:/home/srakrn/.local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin\end{lstlisting}
 \end{frame}
 
 \begin{frame}[fragile]
-    \frametitle{Environments 101: \texttt{\$PATH}}
-    \begin{multicols}{2}
-        \begin{itemize}[<+(1)->]
-            \item \texttt{/home/srakrn/.pyenv/plugins/pyenv-virtualenv/shims}
-            \item \texttt{/home/srakrn/.pyenv/shims}
-            \item \texttt{/home/srakrn/.pyenv/bin}
-            \item \texttt{/home/srakrn/.local/bin:/usr/local/bin}
-            \item \texttt{/usr/local/sbin}
-            \item \texttt{/home/srakrn/.local/bin}
-            \item \texttt{/usr/sbin}
-            \item \texttt{/usr/bin}
-            \item \texttt{/sbin}
-            \item \texttt{/bin}
-            \item \texttt{/usr/games}
-            \item \texttt{/usr/local/games}
-            \item \texttt{/snap/bin}
-        \end{itemize}
-    \end{multicols}
+    \frametitle{Installed pip}
+    \begin{lstlisting}[style=defaultstyle]
+$ pip -V 
+pip 8.1.1 from /usr/lib/python2.7/dist-packages (python 2.7)
+$ pip3 -V 
+pip 8.1.1 from /usr/lib/python2.7/dist-packages (python 3.6)\end{lstlisting}
 \end{frame}
-
 \end{document}

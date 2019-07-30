@@ -1,18 +1,6 @@
-\frametitle{Environments 101: \texttt{\$PATH}}
-    \begin{multicols}{2}
-        \begin{itemize}[<+(1)->]
-            \item \texttt{/home/srakrn/.pyenv/plugins/pyenv-virtualenv/shims}
-            \item \texttt{/home/srakrn/.pyenv/shims}
-            \item \texttt{/home/srakrn/.pyenv/bin}
-            \item \texttt{/home/srakrn/.local/bin:/usr/local/bin}
-            \item \texttt{/usr/local/sbin}
-            \item \texttt{/home/srakrn/.local/bin}
-            \item \texttt{/usr/sbin}
-            \item \texttt{/usr/bin}
-            \item \texttt{/sbin}
-            \item \texttt{/bin}
-            \item \texttt{/usr/games}
-            \item \texttt{/usr/local/games}
-            \item \texttt{/snap/bin}
-        \end{itemize}
-    \end{multicols}
+\frametitle{Installed pip}
+    \begin{lstlisting}[style=defaultstyle]
+$ pip -V
+pip 8.1.1 from /usr/lib/python2.7/dist-packages (python 2.7)
+$ pip3 -V
+pip 8.1.1 from /usr/lib/python2.7/dist-packages (python 3.6)\end{lstlisting}
