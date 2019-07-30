@@ -232,32 +232,6 @@
 \end{frame}
 
 \begin{frame}
-    \frametitle{...yet sometimes I still feels bad with it.}
-    \centering
-    \includegraphics[scale=0.35]{images/xkcd-python-env.png}
-
-    {\small Courtesy: xkcd (\url{https://xkcd.com/1987/})}
-\end{frame}
-
-\subsection{Python environments}
-
-\begin{frame}[fragile]
-    \frametitle{Environments 101: \texttt{\$PATH}}
-    \begin{lstlisting}[style=terminal]
-$ echo $PATH
-/home/srakrn/.pyenv/plugins/pyenv-virtualenv/shims:/home/srakrn/.pyenv/shims:/home/srakrn/.pyenv/bin:/home/srakrn/.local/bin:/usr/local/bin:/usr/local/sbin:/home/srakrn/.local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin\end{lstlisting}
-\end{frame}
-
-\begin{frame}[fragile]
-    \frametitle{Installed pip}
-    \begin{lstlisting}[style=terminal]
-$ pip -V 
-pip 8.1.1 from /usr/lib/python2.7/dist-packages (python 2.7)
-$ pip3 -V 
-pip 8.1.1 from /usr/lib/python2.7/dist-packages (python 3.6)\end{lstlisting}
-\end{frame}
-
-\begin{frame}
     \frametitle{Anaconda Python Distribution}
     \begin{columns}
         \column{0.4\textwidth}
@@ -273,7 +247,46 @@ pip 8.1.1 from /usr/lib/python2.7/dist-packages (python 3.6)\end{lstlisting}
                     \item Fetches the packages from its own repository, not PyPI
                 \end{itemize}
                 \item Aims for Data Science use
+                \item \textbf{Entirely separated Python}
             \end{itemize}
     \end{columns}
+\end{frame}
+
+\subsection{Python environments}
+
+\begin{frame}[fragile]
+    \frametitle{Environments 101: \texttt{\$PATH}}
+    \begin{lstlisting}[style=terminal]
+$ echo $PATH
+/home/srakrn/.pyenv/plugins/pyenv-virtualenv/shims:/home/srakrn/.pyenv/shims:/home/srakrn/.pyenv/bin:/home/srakrn/.local/bin:/usr/local/bin:/usr/local/sbin:/home/srakrn/.local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin\end{lstlisting}
+\end{frame}
+
+\begin{frame}[fragile]
+    \frametitle{Different machines, different Pythons}
+    \begin{lstlisting}[style=terminal]
+srakrn@epsilon-ubuntu:~$ which python
+/home/srakrn/.pyenv/shims/python\end{lstlisting}
+    \begin{lstlisting}[style=terminal]
+srakrn@charles:~$ which python
+/usr/bin/python
+srakrn@charles:~$ which python3
+/usr/bin/python3\end{lstlisting}
+\end{frame}
+
+\begin{frame}[fragile]
+    \frametitle{Installed pip}
+    \begin{lstlisting}[style=terminal]
+$ pip -V 
+pip 8.1.1 from /usr/lib/python2.7/dist-packages (python 2.7)
+$ pip3 -V 
+pip 8.1.1 from /usr/lib/python2.7/dist-packages (python 3.6)\end{lstlisting}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Perhaps now you understand me...}
+    \centering
+    \includegraphics[scale=0.35]{images/xkcd-python-env.png}
+
+    {\small Courtesy: xkcd (\url{https://xkcd.com/1987/})}
 \end{frame}
 \end{document}
