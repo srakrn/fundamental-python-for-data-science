@@ -263,9 +263,11 @@ $ echo $PATH
 
 \begin{frame}[fragile]
     \frametitle{Different machines, different Pythons}
+    On my laptop...
     \begin{lstlisting}[style=terminal]
 srakrn@epsilon-ubuntu:~$ which python
 /home/srakrn/.pyenv/shims/python\end{lstlisting}
+    On my \href{charles}{https://charles.srakrn.me/} server...
     \begin{lstlisting}[style=terminal]
 srakrn@charles:~$ which python
 /usr/bin/python
@@ -288,5 +290,45 @@ pip 8.1.1 from /usr/lib/python2.7/dist-packages (python 3.6)\end{lstlisting}
     \includegraphics[scale=0.35]{images/xkcd-python-env.png}
 
     {\small Courtesy: xkcd (\url{https://xkcd.com/1987/})}
+\end{frame}
+
+\subsection{Jupyter}
+
+\begin{frame}
+    \frametitle{Jupyter}
+    \begin{columns}
+        \column{0.4\textwidth}
+            \begin{center}
+                \includegraphics<2->[width=0.7\columnwidth]{images/jupyter-logo.pdf}
+            \end{center}
+        \column{0.6\textwidth}
+           {\onslide<3-> {\LARGE Interactive computing environment}}
+    \end{columns}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Google Colaboratory (Colab)}
+    \begin{columns}
+        \column{0.4\textwidth}
+            \begin{center}
+                \includegraphics<2->[width=\columnwidth]{images/colab-logo.png}
+            \end{center}
+        \column{0.6\textwidth}
+        \begin{itemize}[<+(2)->]
+            \item Think of an online Jupyter notebook provided by Google
+            \item The runtime relies on Google's server fram
+            \begin{itemize}
+                \item In other words, your code are remotely executed
+            \end{itemize}
+            \item Could be more powerful for some tasks (like Deep Learning) than your computer
+            \item Free!
+        \end{itemize}
+    \end{columns}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Google Colaboratory (Colab)}
+    \centering
+    \huge \url{https://colab.research.google.com/}
 \end{frame}
 \end{document}

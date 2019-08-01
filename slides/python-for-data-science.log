@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.6.21)  30 JUL 2019 09:45
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.6.21)  1 AUG 2019 09:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1491,10 +1491,63 @@ LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
 File: images/xkcd-python-env.png Graphic file (type bmp)
 <images/xkcd-python-env.png>
 
-Overfull \vbox (0.32121pt too high) detected at line 291
+Overfull \vbox (0.32121pt too high) detected at line 293
  []
 
 [34
+
+] [35
+
+]
+File: images/jupyter-logo.pdf Graphic file (type pdf)
+<use images/jupyter-logo.pdf>
+ [36
+
+]
+File: images/jupyter-logo.pdf Graphic file (type pdf)
+<use images/jupyter-logo.pdf>
+ [37
+
+] [38
+
+]
+File: images/colab-logo.png Graphic file (type bmp)
+<images/colab-logo.png>
+ [39
+
+]
+File: images/colab-logo.png Graphic file (type bmp)
+<images/colab-logo.png>
+ [40
+
+]
+File: images/colab-logo.png Graphic file (type bmp)
+<images/colab-logo.png>
+ [41
+
+]
+File: images/colab-logo.png Graphic file (type bmp)
+<images/colab-logo.png>
+ [42
+
+]
+File: images/colab-logo.png Graphic file (type bmp)
+<images/colab-logo.png>
+ [43
+
+]
+File: images/colab-logo.png Graphic file (type bmp)
+<images/colab-logo.png>
+ [44
+
+]
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <20.74> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 333.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <14.4> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 333.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <12> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 333.
+ [45
 
 ]
 \tf@nav=\write7
@@ -1506,19 +1559,19 @@ Overfull \vbox (0.32121pt too high) detected at line 291
 \tf@snm=\write9
 \openout9 = `python-for-data-science.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 292.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 292.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 334.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 334.
  (./python-for-data-science.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 292.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 292.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 334.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 334.
  ) 
 Here is how much of TeX's memory you used:
- 35880 strings out of 494988
- 734996 string characters out of 6178638
- 868058 words of memory out of 5000000
- 39105 multiletter control sequences out of 15000+600000
- 537227 words of font info for 80 fonts, out of 8000000 for 9000
+ 35942 strings out of 494988
+ 736214 string characters out of 6178638
+ 868198 words of memory out of 5000000
+ 39149 multiletter control sequences out of 15000+600000
+ 541935 words of font info for 107 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 50i,13n,88p,10491b,987s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,13n,88p,10491b,985s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on python-for-data-science.pdf (34 pages).
+Output written on python-for-data-science.pdf (45 pages).

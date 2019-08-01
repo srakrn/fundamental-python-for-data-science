@@ -52,8 +52,16 @@
 \headcommand {\beamer@framepages {33}{33}}
 \headcommand {\slideentry {2}{1}{4}{34/34}{Python environments}{0}}
 \headcommand {\beamer@framepages {34}{34}}
-\headcommand {\beamer@partpages {1}{34}}
 \headcommand {\beamer@subsectionpages {31}{34}}
-\headcommand {\beamer@sectionpages {15}{34}}
-\headcommand {\beamer@documentpages {34}}
-\headcommand {\gdef \inserttotalframenumber {20}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{35}{Jupyter}}
+\headcommand {\slideentry {2}{2}{1}{35/37}{Jupyter}{0}}
+\headcommand {\beamer@framepages {35}{37}}
+\headcommand {\slideentry {2}{2}{2}{38/44}{Jupyter}{0}}
+\headcommand {\beamer@framepages {38}{44}}
+\headcommand {\slideentry {2}{2}{3}{45/45}{Jupyter}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\beamer@partpages {1}{45}}
+\headcommand {\beamer@subsectionpages {35}{45}}
+\headcommand {\beamer@sectionpages {15}{45}}
+\headcommand {\beamer@documentpages {45}}
+\headcommand {\gdef \inserttotalframenumber {23}}
