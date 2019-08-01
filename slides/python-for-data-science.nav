@@ -60,8 +60,14 @@
 \headcommand {\beamer@framepages {38}{44}}
 \headcommand {\slideentry {2}{2}{3}{45/45}{Jupyter}{0}}
 \headcommand {\beamer@framepages {45}{45}}
-\headcommand {\beamer@partpages {1}{45}}
-\headcommand {\beamer@subsectionpages {35}{45}}
-\headcommand {\beamer@sectionpages {15}{45}}
-\headcommand {\beamer@documentpages {45}}
-\headcommand {\gdef \inserttotalframenumber {23}}
+\headcommand {\slideentry {2}{2}{4}{46/46}{Jupyter}{0}}
+\headcommand {\beamer@framepages {46}{46}}
+\headcommand {\slideentry {2}{2}{5}{47/47}{Jupyter}{0}}
+\headcommand {\beamer@framepages {47}{47}}
+\headcommand {\slideentry {2}{2}{6}{48/48}{Jupyter}{0}}
+\headcommand {\beamer@framepages {48}{48}}
+\headcommand {\beamer@partpages {1}{48}}
+\headcommand {\beamer@subsectionpages {35}{48}}
+\headcommand {\beamer@sectionpages {15}{48}}
+\headcommand {\beamer@documentpages {48}}
+\headcommand {\gdef \inserttotalframenumber {26}}
