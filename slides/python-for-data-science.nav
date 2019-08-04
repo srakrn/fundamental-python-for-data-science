@@ -56,18 +56,22 @@
 \headcommand {\beamer@subsectionentry {0}{2}{2}{35}{Jupyter}}
 \headcommand {\slideentry {2}{2}{1}{35/37}{Jupyter}{0}}
 \headcommand {\beamer@framepages {35}{37}}
-\headcommand {\slideentry {2}{2}{2}{38/44}{Jupyter}{0}}
-\headcommand {\beamer@framepages {38}{44}}
-\headcommand {\slideentry {2}{2}{3}{45/45}{Jupyter}{0}}
-\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\slideentry {2}{2}{2}{38/38}{Jupyter}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\slideentry {2}{2}{3}{39/45}{Jupyter}{0}}
+\headcommand {\beamer@framepages {39}{45}}
 \headcommand {\slideentry {2}{2}{4}{46/46}{Jupyter}{0}}
 \headcommand {\beamer@framepages {46}{46}}
 \headcommand {\slideentry {2}{2}{5}{47/47}{Jupyter}{0}}
 \headcommand {\beamer@framepages {47}{47}}
-\headcommand {\slideentry {2}{2}{6}{48/48}{Jupyter}{0}}
-\headcommand {\beamer@framepages {48}{48}}
-\headcommand {\beamer@partpages {1}{48}}
-\headcommand {\beamer@subsectionpages {35}{48}}
-\headcommand {\beamer@sectionpages {15}{48}}
-\headcommand {\beamer@documentpages {48}}
-\headcommand {\gdef \inserttotalframenumber {26}}
+\headcommand {\slideentry {2}{2}{6}{48/49}{Jupyter}{0}}
+\headcommand {\beamer@framepages {48}{49}}
+\headcommand {\slideentry {2}{2}{7}{50/52}{Jupyter}{0}}
+\headcommand {\beamer@framepages {50}{52}}
+\headcommand {\slideentry {2}{2}{8}{53/53}{Jupyter}{0}}
+\headcommand {\beamer@framepages {53}{53}}
+\headcommand {\beamer@partpages {1}{53}}
+\headcommand {\beamer@subsectionpages {35}{53}}
+\headcommand {\beamer@sectionpages {15}{53}}
+\headcommand {\beamer@documentpages {53}}
+\headcommand {\gdef \inserttotalframenumber {28}}

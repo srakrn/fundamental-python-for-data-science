@@ -298,12 +298,16 @@ pip 8.1.1 from /usr/lib/python2.7/dist-packages (python 3.6)\end{lstlisting}
     \frametitle{Jupyter}
     \begin{columns}
         \column{0.4\textwidth}
-            \begin{center}
-                \includegraphics<2->[width=0.7\columnwidth]{images/jupyter-logo.pdf}
-            \end{center}
+        \begin{center}
+            \includegraphics<2->[width=0.7\columnwidth]{images/jupyter-logo.pdf}
+        \end{center}
         \column{0.6\textwidth}
-           {\onslide<3-> {\LARGE Interactive computing environment}}
+        {\onslide<3-> {\LARGE Interactive computing environment}}
     \end{columns}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Jupyter Notebook}
 \end{frame}
 
 \begin{frame}
@@ -315,7 +319,7 @@ pip 8.1.1 from /usr/lib/python2.7/dist-packages (python 3.6)\end{lstlisting}
             \end{center}
         \column{0.6\textwidth}
         \begin{itemize}[<+(2)->]
-            \item Think of an online Jupyter notebook provided by Google
+            \item Think of an online Jupyter Notebook provided by Google
             \item The runtime relies on Google's server fram
             \begin{itemize}
                 \item In other words, your code are remotely executed
@@ -333,13 +337,23 @@ pip 8.1.1 from /usr/lib/python2.7/dist-packages (python 3.6)\end{lstlisting}
 \end{frame}
 
 \begin{frame}
+    \includegraphics[width=\textwidth]{images/colab-demo.png}
+\end{frame}
+
+\begin{frame}
     \frametitle{Caveats 1: Execution order}
+    \includegraphics[width=\textwidth]{images/colab-ooo-execution.png}
+    \pause
     You'll do a lot of out-of-order code execution!
 \end{frame}
 
 \begin{frame}
     \frametitle{Caveats 2: Cell edits}
-    Neither vanilla Jupyter Notebook nor Colab offers cell edited marks!
+    \includegraphics[width=\textwidth]{images/colab-edited-cells.png}
+    \pause
+    Jupyter Notebook offers no cell edited marks, while Colab offers them
+    \pause
+    (note: observe the greyed out cell number)
 \end{frame}
 
 \begin{frame}
