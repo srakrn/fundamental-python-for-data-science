@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.6.21)  10 AUG 2019 23:26
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.6.21)  11 AUG 2019 00:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1621,20 +1621,16 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 
 ] (./python-for-data-science.vrb) [65
 
-] (./python-for-data-science.vrb) [66
-
 ]
 \openout4 = `python-for-data-science.vrb'.
 
- (./python-for-data-science.vrb) [67
+ (./python-for-data-science.vrb) [66
+
+] (./python-for-data-science.vrb) [67
 
 ] (./python-for-data-science.vrb) [68
 
 ] (./python-for-data-science.vrb) [69
-
-] (./python-for-data-science.vrb) [70
-
-] (./python-for-data-science.vrb) [71
 
 ]
 \tf@nav=\write7
@@ -1646,19 +1642,19 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 \tf@snm=\write9
 \openout9 = `python-for-data-science.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 434.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 434.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 428.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 428.
  (./python-for-data-science.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 434.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 434.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 428.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 428.
  ) 
 Here is how much of TeX's memory you used:
- 36198 strings out of 494988
- 739831 string characters out of 6178638
- 880947 words of memory out of 5000000
+ 36194 strings out of 494988
+ 739719 string characters out of 6178638
+ 880945 words of memory out of 5000000
  39369 multiletter control sequences out of 15000+600000
  541951 words of font info for 109 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  50i,13n,91p,10491b,1512s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on python-for-data-science.pdf (71 pages).
+Output written on python-for-data-science.pdf (69 pages).
