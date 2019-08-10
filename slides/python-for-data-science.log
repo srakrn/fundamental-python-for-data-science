@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.6.21)  4 AUG 2019 23:57
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.6.21)  10 AUG 2019 22:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1567,13 +1567,13 @@ File: images/colab-ooo-execution.png Graphic file (type bmp)
  [49
 
 ]
-File: images/colab-edited-cells.png Graphic file (type bmp)
-<images/colab-edited-cells.png>
+File: images/colab-removed-cell.png Graphic file (type bmp)
+<images/colab-removed-cell.png>
  [50
 
 ]
-File: images/colab-edited-cells.png Graphic file (type bmp)
-<images/colab-edited-cells.png>
+File: images/colab-removed-cell.png Graphic file (type bmp)
+<images/colab-removed-cell.png>
  [51
 
 ]
@@ -1581,7 +1581,17 @@ File: images/colab-edited-cells.png Graphic file (type bmp)
 <images/colab-edited-cells.png>
  [52
 
-] [53
+]
+File: images/colab-edited-cells.png Graphic file (type bmp)
+<images/colab-edited-cells.png>
+ [53
+
+]
+File: images/colab-edited-cells.png Graphic file (type bmp)
+<images/colab-edited-cells.png>
+ [54
+
+] [55
 
 ]
 \tf@nav=\write7
@@ -1593,19 +1603,19 @@ File: images/colab-edited-cells.png Graphic file (type bmp)
 \tf@snm=\write9
 \openout9 = `python-for-data-science.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 369.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 369.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 376.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 376.
  (./python-for-data-science.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 369.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 369.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 376.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 376.
  ) 
 Here is how much of TeX's memory you used:
- 35964 strings out of 494988
- 736632 string characters out of 6178638
+ 35968 strings out of 494988
+ 736754 string characters out of 6178638
  868318 words of memory out of 5000000
- 39168 multiletter control sequences out of 15000+600000
+ 39171 multiletter control sequences out of 15000+600000
  541935 words of font info for 107 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  50i,13n,88p,10491b,985s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on python-for-data-science.pdf (53 pages).
+Output written on python-for-data-science.pdf (55 pages).
