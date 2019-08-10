@@ -72,8 +72,19 @@
 \headcommand {\beamer@framepages {52}{54}}
 \headcommand {\slideentry {2}{2}{9}{55/55}{Jupyter}{0}}
 \headcommand {\beamer@framepages {55}{55}}
-\headcommand {\beamer@partpages {1}{55}}
-\headcommand {\beamer@subsectionpages {35}{55}}
-\headcommand {\beamer@sectionpages {15}{55}}
-\headcommand {\beamer@documentpages {55}}
-\headcommand {\gdef \inserttotalframenumber {29}}
+\headcommand {\slideentry {2}{2}{10}{56/57}{Jupyter}{0}}
+\headcommand {\beamer@framepages {56}{57}}
+\headcommand {\beamer@sectionpages {15}{57}}
+\headcommand {\beamer@subsectionpages {35}{57}}
+\headcommand {\sectionentry {3}{Python Data Structures}{58}{Python Data Structures}{0}}
+\headcommand {\slideentry {3}{0}{1}{58/58}{}{0}}
+\headcommand {\beamer@framepages {58}{58}}
+\headcommand {\slideentry {3}{0}{2}{59/66}{}{0}}
+\headcommand {\beamer@framepages {59}{66}}
+\headcommand {\slideentry {3}{0}{3}{67/71}{}{0}}
+\headcommand {\beamer@framepages {67}{71}}
+\headcommand {\beamer@partpages {1}{71}}
+\headcommand {\beamer@subsectionpages {58}{71}}
+\headcommand {\beamer@sectionpages {58}{71}}
+\headcommand {\beamer@documentpages {71}}
+\headcommand {\gdef \inserttotalframenumber {32}}
