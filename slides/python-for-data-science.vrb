@@ -1,15 +1,9 @@
-\frametitle{Lists}
-    \begin{columns}
-        \column{0.5\textwidth}
-            \begin{lstlisting}[style=defaultstyle]
-a = [1, 2, 3, 4, 5]
-a[0]    # Accessing elements
-a[1:3]  # Slicing
-\end{lstlisting}
-        \column{0.5\textwidth}
-        \onslide<1-> Accessing list
-            \begin{itemize}[<+(2)->]
-                \item \textbf{Elementwise}: accessing one elements at a time)
-                \item \textbf{Slicing}: accessing a sublist
-            \end{itemize}
-    \end{columns}
+\frametitle{List Functions}
+    \begin{lstlisting}[style=defaultstyle]
+vowels = [1, 3, 2, 5, 4]
+# Get the first index of a specified element
+a.index(4)
+# Sort a list and store into a new list
+sorted_a = sorted(a)
+# Sort a list, making changes directly to the old one
+a.sort()\end{lstlisting}

@@ -425,4 +425,31 @@ a[1:3]  # Slicing
             \end{itemize}
     \end{columns}
 \end{frame}
+
+\begin{frame}[fragile]
+    \frametitle{List Functions}
+    \begin{lstlisting}[style=defaultstyle]
+vowels = ["a", "e", "o", "u"]
+
+# Get a's length
+len(a)
+# Append the new element to the end of a
+a.append("y")
+# Deletes the first occurence of the element from a
+a.remove("y")
+# Inserts the item into a list with a specified index
+a.insert(2, "i")\end{lstlisting}
+\end{frame}
+
+\begin{frame}[fragile]
+    \frametitle{List Functions}
+    \begin{lstlisting}[style=defaultstyle]
+vowels = [1, 3, 2, 5, 4]
+# Get the first index of a specified element
+a.index(4)
+# Sort a list and store into a new list
+sorted_a = sorted(a)
+# Sort a list, making changes directly to the old one
+a.sort()\end{lstlisting}
+\end{frame}
 \end{document}
