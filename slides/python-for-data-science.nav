@@ -87,8 +87,10 @@
 \headcommand {\beamer@framepages {70}{70}}
 \headcommand {\slideentry {3}{0}{5}{71/71}{}{0}}
 \headcommand {\beamer@framepages {71}{71}}
-\headcommand {\beamer@partpages {1}{71}}
-\headcommand {\beamer@subsectionpages {58}{71}}
-\headcommand {\beamer@sectionpages {58}{71}}
-\headcommand {\beamer@documentpages {71}}
-\headcommand {\gdef \inserttotalframenumber {34}}
+\headcommand {\slideentry {3}{0}{6}{72/74}{}{0}}
+\headcommand {\beamer@framepages {72}{74}}
+\headcommand {\beamer@partpages {1}{74}}
+\headcommand {\beamer@subsectionpages {58}{74}}
+\headcommand {\beamer@sectionpages {58}{74}}
+\headcommand {\beamer@documentpages {74}}
+\headcommand {\gdef \inserttotalframenumber {35}}

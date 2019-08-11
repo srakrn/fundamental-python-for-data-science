@@ -1,9 +1,17 @@
-\frametitle{List Functions}
-    \begin{lstlisting}[style=defaultstyle]
-vowels = [1, 3, 2, 5, 4]
-# Get the first index of a specified element
-a.index(4)
-# Sort a list and store into a new list
-sorted_a = sorted(a)
-# Sort a list, making changes directly to the old one
-a.sort()\end{lstlisting}
+\frametitle{Dictionary}
+    \begin{columns}
+        \column{0.5\textwidth}
+            \begin{lstlisting}[style=defaultstyle]
+names = {
+    "Cherprang": "Cher",
+    "Manipa": "Khamin",
+    "Jiradapa": "Pupe"
+}
+
+kami_nickname = names["Manipa"]\end{lstlisting}
+        \column{0.5\textwidth}
+            \begin{itemize}[<+(1)->]
+                \item \textbf{Dictionaries} store values in a \textbf{key-pair} format.
+                \item From the positional index, dictionary takes the key as an index instead.
+            \end{itemize}
+    \end{columns}
