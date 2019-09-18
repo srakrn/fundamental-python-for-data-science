@@ -93,8 +93,8 @@
 
 \begin{frame}
     \frametitle{I know a little about Python}
-    When I say I know \textit{a little} about Python\dots
-    \begin{itemize}
+    {\onslide<2-> When I say I know \textit{a little} about Python\dots}
+    \begin{itemize}[<+(2)->]
         \item I think there's some better methods than I'm using
         \item I think I do sometimes make mistakes
         \item There are tons of people who know things much more than me
@@ -120,7 +120,7 @@
 
 \begin{frame}
     \frametitle{The Data Science Process: OSEMNI}
-    \begin{itemize}
+    \begin{itemize}[<+(1)->]
         \item \textbf{Obtain} data from relevent sources
         \item \textbf{Scrub}, sanitise, and clean the data into machine-understandable formats
         \item \textbf{Explore} significant and meaningful patterns with statistical methods
@@ -390,8 +390,7 @@ pip 8.1.1 from /usr/lib/python2.7/dist-packages (python 3.6)\end{lstlisting}
 \begin{frame}
     \frametitle{Caveats 3: Be neat and tidy}
     \centering
-    {\LARGE Sirakorn's Workflow Demo}\\
-    \onslide<2-> \textit{(Please don't be amused, this is \textbf{very} normal.)}
+    {\LARGE Sirakorn's Workflow Demo}
 \end{frame}
 
 \section{Python Data Structures}
@@ -524,9 +523,9 @@ kami_nickname = names["Manipa"]\end{lstlisting}
     \frametitle{Pandas}
     \begin{columns}
         \column{0.5\textwidth}
-            \includegraphics[width=\columnwidth]{images/pandas-logo.png}
+            \includegraphics<2->[width=\columnwidth]{images/pandas-logo.png}
         \column{0.5\textwidth}
-            \begin{itemize}
+            \begin{itemize}[<+(2)->]
                 \item Tabular-like structure
                 \item High performance
                 \item Easy to use
@@ -548,8 +547,44 @@ kami_nickname = names["Manipa"]\end{lstlisting}
 \end{frame}
 
 \begin{frame}
+    \frametitle{Data Visualisation}
+    \begin{columns}
+        \column{0.5\textwidth}
+            \includegraphics[width=\textwidth]{images/svm-db.pdf}
+        \column{0.5\textwidth}
+            {\large \onslide<3-> Why Visualise?}
+            \begin{itemize}[<+(3)->]
+                \item Our visual system is so great!
+                \item A much better way to represent data than statistical values
+                \item Meaningful plots show meaningful insights without needing to do much
+            \end{itemize}
+    \end{columns}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Matplotlib}
+    \begin{columns}
+        \column{0.5\textwidth}
+            \includegraphics<2->[width=\columnwidth]{images/matplotlib-logo.png}
+        \column{0.5\textwidth}
+            \begin{itemize}[<+(2)->]
+                \item feature-rich plotting library in python
+                \item plots multiple types of charts
+                \item extensive support for jupyter notebook
+            \end{itemize}
+    \end{columns}
+\end{frame}
+
+\begin{frame}
     \frametitle{Matplotlib}
     \centering
-    \includegraphics[scale=0.25]{images/matplotlib-anatomy.png}
+    \includegraphics[scale=0.22]{images/matplotlib-anatomy.png}\\
+    {\small \textit{Source: \url{https://matplotlib.org/tutorials/introductory/usage.html}}}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Matplotlib}
+    \centering
+    { \Huge Let's go to Notebook! }
 \end{frame}
 \end{document}
