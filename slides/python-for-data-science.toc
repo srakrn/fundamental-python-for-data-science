@@ -4,3 +4,4 @@
 \beamer@subsectionintoc {2}{2}{Jupyter}{47}{0}{2}
 \beamer@sectionintoc {3}{Python Data Structures}{72}{0}{3}
 \beamer@sectionintoc {4}{Pandas}{96}{0}{4}
+\beamer@sectionintoc {5}{QAs}{120}{0}{5}
