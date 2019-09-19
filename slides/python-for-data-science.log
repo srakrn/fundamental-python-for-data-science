@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.6.21)  19 SEP 2019 12:40
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.6.21)  19 SEP 2019 14:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1105,44 +1105,80 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \mult@nat@firstbox=\box109
 \colbreak@box=\box110
 \mc@col@check@num=\count342
+) (/usr/share/texlive/texmf-dist/tex/latex/qrcode/qrcode.sty
+Package: qrcode 2015/01/08 v1.51 QR code generation
+ (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks48
+\XKV@tempa@toks=\toks49
+)
+\XKV@depth=\count343
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\c@qr@i=\count344
+\c@qr@j=\count345
+\qr@a=\count346
+\qr@b=\count347
+\qr@c=\count348
+\qr@for@depth=\count349
+\qr@for@maxdepth=\count350
+\qr@for@start=\count351
+\qr@for@end=\count352
+\qr@for@step=\count353
+\qr@newforcount=\count354
+\qr@newforcount=\count355
+\qr@desiredheight=\skip65
+\qr@modulesize=\skip66
+\qr@minipagewidth=\skip67
+\c@maski=\count356
+\c@maskj=\count357
+\c@totalones=\count358
+\c@penaltyi=\count359
+\c@penaltyii=\count360
+\c@penaltyiii=\count361
+\c@penaltyiv=\count362
+\c@qr@hexchars=\count363
+\qr@newforcount=\count364
+\c@qr@divisionsremaining=\count365
 ) (/usr/share/texlive/texmf-dist/tex/latex/beamertheme-metropolis/beamerthememetropolis.sty
 Package: beamerthememetropolis 2017/01/23 v1.2 Metropolis Beamer theme
  (/usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
-\pgfopts@list@add@a@toks=\toks48
-\pgfopts@list@add@b@toks=\toks49
+\pgfopts@list@add@a@toks=\toks50
+\pgfopts@list@add@b@toks=\toks51
 ) (/usr/share/texlive/texmf-dist/tex/latex/beamertheme-metropolis/beamerinnerthememetropolis.sty
 Package: beamerinnerthememetropolis 2017/01/23 Metropolis inner theme
  (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count343
-\calc@Bcount=\count344
+\calc@Acount=\count366
+\calc@Bcount=\count367
 \calc@Adimen=\dimen305
 \calc@Bdimen=\dimen306
-\calc@Askip=\skip65
-\calc@Bskip=\skip66
+\calc@Askip=\skip68
+\calc@Bskip=\skip69
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count345
-\calc@Cskip=\skip67
+\calc@Ccount=\count368
+\calc@Cskip=\skip70
 )
-\metropolis@titleseparator@linewidth=\skip68
-\metropolis@progressonsectionpage=\skip69
-\metropolis@progressonsectionpage@linewidth=\skip70
-\metropolis@blocksep=\skip71
-\metropolis@blockadjust=\skip72
-\metropolis@parskip=\skip73
+\metropolis@titleseparator@linewidth=\skip71
+\metropolis@progressonsectionpage=\skip72
+\metropolis@progressonsectionpage@linewidth=\skip73
+\metropolis@blocksep=\skip74
+\metropolis@blockadjust=\skip75
+\metropolis@parskip=\skip76
 ) (/usr/share/texlive/texmf-dist/tex/latex/beamertheme-metropolis/beamerouterthememetropolis.sty
 Package: beamerouterthememetropolis 2017/01/23 Metropolis outer theme
-\metropolis@frametitle@padding=\skip74
-\metropolis@progressinheadfoot=\skip75
-\metropolis@progressinheadfoot@linewidth=\skip76
+\metropolis@frametitle@padding=\skip77
+\metropolis@progressinheadfoot=\skip78
+\metropolis@progressinheadfoot@linewidth=\skip79
 ) (/usr/share/texlive/texmf-dist/tex/latex/beamertheme-metropolis/beamercolorthememetropolis.sty
 Package: beamercolorthememetropolis 2017/01/23 Metropolis color theme
 ) (/usr/share/texlive/texmf-dist/tex/latex/beamertheme-metropolis/beamerfontthememetropolis.sty
 Package: beamerfontthememetropolis 2017/01/23 Metropolis font theme
-\c@fontsnotfound=\count346
-\g__fontspec_family_FiraSansLight_int=\count347
+\c@fontsnotfound=\count369
+\g__fontspec_family_FiraSansLight_int=\count370
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1170,7 +1206,7 @@ Package: beamerfontthememetropolis 2017/01/23 Metropolis font theme
 . Italic/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
 .................................................
 LaTeX Info: Redefining \sffamily on input line 95.
-\g__fontspec_family_FiraMono_int=\count348
+\g__fontspec_family_FiraMono_int=\count371
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1213,7 +1249,8 @@ LaTeX Info: Redefining \sffamily on input line 95.
 . \tex_hyphenchar:D \font =-1\scan_stop: 
 .................................................
 LaTeX Info: Redefining \ttfamily on input line 95.
-)) (./python-for-data-science.aux)
+)) (./python-for-data-science.aux <Reading QR code for "http://bit.ly/cpe-datascience" at level 3-Q from aux file.>
+)
 \openout1 = `python-for-data-science.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
@@ -1277,7 +1314,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count349
+\c@section@level=\count372
 )
 LaTeX Info: Redefining \ref on input line 73.
 LaTeX Info: Redefining \pageref on input line 73.
@@ -1399,26 +1436,31 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  TU/FiraSansLight(0)/bx/n --> TU/FiraSansLight(0)/bx/n on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  TU/FiraMono(0)/bx/n --> TU/FiraMono(0)/bx/n on input line 73.
-\c@lstlisting=\count350
+\c@lstlisting=\count373
  (./python-for-data-science.nav)
 Overfull \vbox (15.63992pt too high) detected at line 75
  []
 
 [1
 
-]
-File: images/sirakorn-1.jpeg Graphic file (type bmp)
-<images/sirakorn-1.jpeg>
-LaTeX Font Info:    Try loading font information for U+msa on input line 92.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+] 
+
+<QR code requested for "http://bit.ly/cpe-datascience" in version 0-M.>
+<Error-correction level increased from M to Q at no cost.>
+<Copying the QR code for "http://bit.ly/cpe-datascience" in version 3-Q as previously calculated.>
+LaTeX Font Info:    Try loading font information for U+msa on input line 83.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 92.
+LaTeX Font Info:    Try loading font information for U+msb on input line 83.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [2
 
-] [3
+]
+File: images/sirakorn-1.jpeg Graphic file (type bmp)
+<images/sirakorn-1.jpeg>
+ [3
 
 ] [4
 
@@ -1434,9 +1476,9 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [10
 
-] (./python-for-data-science.toc) [11
+] [11
 
-] [12
+] (./python-for-data-science.toc) [12
 
 ] [13
 
@@ -1452,42 +1494,42 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [19
 
+] [20
+
 ]
 File: images/leather-shoes-google.png Graphic file (type bmp)
 <images/leather-shoes-google.png>
- [20
+ [21
 
 ]
 File: images/facebook-ads.png Graphic file (type bmp)
 <images/facebook-ads.png>
- [21
+ [22
 
 ]
 File: images/facebook-ads-why-am-i-seeing.png Graphic file (type bmp)
 <images/facebook-ads-why-am-i-seeing.png>
- [22
+ [23
 
 ]
 File: images/facebook-ads-details.png Graphic file (type bmp)
 <images/facebook-ads-details.png>
- [23
-
-] [24
+ [24
 
 ] [25
 
 ] [26
 
+] [27
+
 ]
 File: images/xkcd-python.png Graphic file (type bmp)
 <images/xkcd-python.png>
 
-Overfull \vbox (9.06021pt too high) detected at line 207
+Overfull \vbox (9.06021pt too high) detected at line 214
  []
 
-[27
-
-] [28
+[28
 
 ] [29
 
@@ -1501,10 +1543,7 @@ Overfull \vbox (9.06021pt too high) detected at line 207
 
 ] [34
 
-]
-File: images/anaconda_logo.png Graphic file (type bmp)
-<images/anaconda_logo.png>
- [35
+] [35
 
 ]
 File: images/anaconda_logo.png Graphic file (type bmp)
@@ -1537,9 +1576,9 @@ File: images/anaconda_logo.png Graphic file (type bmp)
  [41
 
 ]
-\openout4 = `python-for-data-science.vrb'.
-
- (./python-for-data-science.vrb) [42
+File: images/anaconda_logo.png Graphic file (type bmp)
+<images/anaconda_logo.png>
+ [42
 
 ]
 \openout4 = `python-for-data-science.vrb'.
@@ -1552,20 +1591,20 @@ File: images/anaconda_logo.png Graphic file (type bmp)
  (./python-for-data-science.vrb) [44
 
 ]
+\openout4 = `python-for-data-science.vrb'.
+
+ (./python-for-data-science.vrb) [45
+
+]
 File: images/xkcd-python-env.png Graphic file (type bmp)
 <images/xkcd-python-env.png>
 
-Overfull \vbox (3.11124pt too high) detected at line 294
+Overfull \vbox (3.11124pt too high) detected at line 301
  []
 
-[45
+[46
 
-] [46
-
-]
-File: images/jupyter-logo.pdf Graphic file (type pdf)
-<use images/jupyter-logo.pdf>
- [47
+] [47
 
 ]
 File: images/jupyter-logo.pdf Graphic file (type pdf)
@@ -1592,12 +1631,12 @@ File: images/jupyter-logo.pdf Graphic file (type pdf)
 <use images/jupyter-logo.pdf>
  [52
 
-] [53
-
 ]
-File: images/colab-logo.png Graphic file (type bmp)
-<images/colab-logo.png>
- [54
+File: images/jupyter-logo.pdf Graphic file (type pdf)
+<use images/jupyter-logo.pdf>
+ [53
+
+] [54
 
 ]
 File: images/colab-logo.png Graphic file (type bmp)
@@ -1624,21 +1663,21 @@ File: images/colab-logo.png Graphic file (type bmp)
 <images/colab-logo.png>
  [59
 
-] [60
+]
+File: images/colab-logo.png Graphic file (type bmp)
+<images/colab-logo.png>
+ [60
+
+] [61
 
 ]
 File: images/colab-demo.png Graphic file (type bmp)
 <images/colab-demo.png>
 
-Overfull \vbox (0.43845pt too high) detected at line 354
+Overfull \vbox (0.43845pt too high) detected at line 361
  []
 
-[61
-
-]
-File: images/colab-ooo-execution.png Graphic file (type bmp)
-<images/colab-ooo-execution.png>
- [62
+[62
 
 ]
 File: images/colab-ooo-execution.png Graphic file (type bmp)
@@ -1646,8 +1685,8 @@ File: images/colab-ooo-execution.png Graphic file (type bmp)
  [63
 
 ]
-File: images/colab-removed-cell.png Graphic file (type bmp)
-<images/colab-removed-cell.png>
+File: images/colab-ooo-execution.png Graphic file (type bmp)
+<images/colab-ooo-execution.png>
  [64
 
 ]
@@ -1656,8 +1695,8 @@ File: images/colab-removed-cell.png Graphic file (type bmp)
  [65
 
 ]
-File: images/colab-edited-cells.png Graphic file (type bmp)
-<images/colab-edited-cells.png>
+File: images/colab-removed-cell.png Graphic file (type bmp)
+<images/colab-removed-cell.png>
  [66
 
 ]
@@ -1670,20 +1709,23 @@ File: images/colab-edited-cells.png Graphic file (type bmp)
 <images/colab-edited-cells.png>
  [68
 
-] [69
+]
+File: images/colab-edited-cells.png Graphic file (type bmp)
+<images/colab-edited-cells.png>
+ [69
 
 ] [70
 
 ] [71
+
+] [72
 
 ]
 \openout4 = `python-for-data-science.vrb'.
 
  (./python-for-data-science.vrb (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
-)) [72
-
-] (./python-for-data-science.vrb) [73
+)) [73
 
 ] (./python-for-data-science.vrb) [74
 
@@ -1695,21 +1737,18 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 
 ] (./python-for-data-science.vrb) [78
 
+] (./python-for-data-science.vrb) [79
+
 ]
 \openout4 = `python-for-data-science.vrb'.
 
- (./python-for-data-science.vrb) [79
-
-] (./python-for-data-science.vrb) [80
+ (./python-for-data-science.vrb) [80
 
 ] (./python-for-data-science.vrb) [81
 
 ] (./python-for-data-science.vrb) [82
 
-]
-\openout4 = `python-for-data-science.vrb'.
-
- (./python-for-data-science.vrb) [83
+] (./python-for-data-science.vrb) [83
 
 ]
 \openout4 = `python-for-data-science.vrb'.
@@ -1721,16 +1760,16 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 
  (./python-for-data-science.vrb) [85
 
-] (./python-for-data-science.vrb) [86
+]
+\openout4 = `python-for-data-science.vrb'.
+
+ (./python-for-data-science.vrb) [86
 
 ] (./python-for-data-science.vrb) [87
 
-] [88
+] (./python-for-data-science.vrb) [88
 
-]
-File: images/numpy-logo.png Graphic file (type bmp)
-<images/numpy-logo.png>
- [89
+] [89
 
 ]
 File: images/numpy-logo.png Graphic file (type bmp)
@@ -1748,29 +1787,29 @@ File: images/numpy-logo.png Graphic file (type bmp)
  [92
 
 ]
+File: images/numpy-logo.png Graphic file (type bmp)
+<images/numpy-logo.png>
+ [93
+
+]
 File: images/numpy-meme.jpg Graphic file (type bmp)
 <images/numpy-meme.jpg>
 
 
 LaTeX Font Warning: Font shape `TU/FiraMono(0)/m/it' undefined
-(Font)              using `TU/FiraMono(0)/m/n' instead on input line 510.
+(Font)              using `TU/FiraMono(0)/m/n' instead on input line 517.
 
 
-Overfull \vbox (20.09192pt too high) detected at line 510
+Overfull \vbox (20.09192pt too high) detected at line 517
  []
 
-[93
-
-] [94
+[94
 
 ] [95
 
 ] [96
 
-]
-File: images/pandas-logo.png Graphic file (type bmp)
-<images/pandas-logo.png>
- [97
+] [97
 
 ]
 File: images/pandas-logo.png Graphic file (type bmp)
@@ -1798,18 +1837,18 @@ File: images/pandas-logo.png Graphic file (type bmp)
  [102
 
 ]
-File: images/df-series.pdf Graphic file (type pdf)
-<use images/df-series.pdf>
+File: images/pandas-logo.png Graphic file (type bmp)
+<images/pandas-logo.png>
  [103
 
-] [104
+]
+File: images/df-series.pdf Graphic file (type pdf)
+<use images/df-series.pdf>
+ [104
 
 ] [105
 
-]
-File: images/svm-db.pdf Graphic file (type pdf)
-<use images/svm-db.pdf>
- [106
+] [106
 
 ]
 File: images/svm-db.pdf Graphic file (type pdf)
@@ -1831,14 +1870,14 @@ File: images/svm-db.pdf Graphic file (type pdf)
 <use images/svm-db.pdf>
  [110
 
-] [111
+]
+File: images/svm-db.pdf Graphic file (type pdf)
+<use images/svm-db.pdf>
+ [111
 
 ] [112
 
-]
-File: images/matplotlib-logo.png Graphic file (type bmp)
-<images/matplotlib-logo.png>
- [113
+] [113
 
 ]
 File: images/matplotlib-logo.png Graphic file (type bmp)
@@ -1856,19 +1895,24 @@ File: images/matplotlib-logo.png Graphic file (type bmp)
  [116
 
 ]
+File: images/matplotlib-logo.png Graphic file (type bmp)
+<images/matplotlib-logo.png>
+ [117
+
+]
 File: images/matplotlib-anatomy.png Graphic file (type bmp)
 <images/matplotlib-anatomy.png>
 
-Overfull \vbox (3.20503pt too high) detected at line 590
+Overfull \vbox (3.20503pt too high) detected at line 597
  []
 
-[117
-
-] [118
+[118
 
 ] [119
 
 ] [120
+
+] [121
 
 ]
 \tf@nav=\write7
@@ -1880,23 +1924,24 @@ Overfull \vbox (3.20503pt too high) detected at line 590
 \tf@snm=\write9
 \openout9 = `python-for-data-science.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 604.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 604.
- (./python-for-data-science.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 604.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 604.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 611.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 611.
+ (./python-for-data-science.aux <Reading QR code for "http://bit.ly/cpe-datascience" at level 3-Q from aux file.>
+)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 611.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 611.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 36338 strings out of 494988
- 744170 string characters out of 6178638
- 909370 words of memory out of 5000000
- 39473 multiletter control sequences out of 15000+600000
- 542087 words of font info for 126 fonts, out of 8000000 for 9000
+ 38004 strings out of 494988
+ 767391 string characters out of 6178638
+ 933331 words of memory out of 5000000
+ 41122 multiletter control sequences out of 15000+600000
+ 543657 words of font info for 135 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 56i,13n,91p,10491b,1514s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,13n,102p,10491b,1631s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on python-for-data-science.pdf (120 pages).
+Output written on python-for-data-science.pdf (121 pages).

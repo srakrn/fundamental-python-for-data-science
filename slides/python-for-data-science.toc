@@ -1,7 +1,7 @@
-\beamer@sectionintoc {1}{Data Science}{12}{0}{1}
-\beamer@sectionintoc {2}{Python}{26}{0}{2}
-\beamer@subsectionintoc {2}{1}{Python environments}{42}{0}{2}
-\beamer@subsectionintoc {2}{2}{Jupyter}{46}{0}{2}
-\beamer@sectionintoc {3}{Python Data Structures}{71}{0}{3}
-\beamer@sectionintoc {4}{Pandas}{95}{0}{4}
-\beamer@sectionintoc {5}{Blending it all together}{119}{0}{5}
+\beamer@sectionintoc {1}{Data Science}{13}{0}{1}
+\beamer@sectionintoc {2}{Python}{27}{0}{2}
+\beamer@subsectionintoc {2}{1}{Python environments}{43}{0}{2}
+\beamer@subsectionintoc {2}{2}{Jupyter}{47}{0}{2}
+\beamer@sectionintoc {3}{Python Data Structures}{72}{0}{3}
+\beamer@sectionintoc {4}{Pandas}{96}{0}{4}
+\beamer@sectionintoc {5}{Blending it all together}{120}{0}{5}
