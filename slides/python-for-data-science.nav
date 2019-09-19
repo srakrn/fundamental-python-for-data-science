@@ -118,15 +118,8 @@
 \headcommand {\beamer@framepages {118}{118}}
 \headcommand {\slideentry {4}{0}{9}{119/119}{}{0}}
 \headcommand {\beamer@framepages {119}{119}}
-\headcommand {\beamer@sectionpages {96}{119}}
+\headcommand {\beamer@partpages {1}{119}}
 \headcommand {\beamer@subsectionpages {96}{119}}
-\headcommand {\sectionentry {5}{Blending it all together}{120}{Blending it all together}{0}}
-\headcommand {\slideentry {5}{0}{1}{120/120}{}{0}}
-\headcommand {\beamer@framepages {120}{120}}
-\headcommand {\slideentry {5}{0}{2}{121/121}{}{0}}
-\headcommand {\beamer@framepages {121}{121}}
-\headcommand {\beamer@partpages {1}{121}}
-\headcommand {\beamer@subsectionpages {120}{121}}
-\headcommand {\beamer@sectionpages {120}{121}}
-\headcommand {\beamer@documentpages {121}}
-\headcommand {\gdef \inserttotalframenumber {48}}
+\headcommand {\beamer@sectionpages {96}{119}}
+\headcommand {\beamer@documentpages {119}}
+\headcommand {\gdef \inserttotalframenumber {47}}
