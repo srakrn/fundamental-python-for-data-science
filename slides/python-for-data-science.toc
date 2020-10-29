@@ -2,6 +2,6 @@
 \beamer@sectionintoc {2}{Python}{27}{0}{2}
 \beamer@subsectionintoc {2}{1}{Python environments}{43}{0}{2}
 \beamer@subsectionintoc {2}{2}{Jupyter}{47}{0}{2}
-\beamer@sectionintoc {3}{Python Data Structures}{72}{0}{3}
-\beamer@sectionintoc {4}{Pandas}{96}{0}{4}
-\beamer@sectionintoc {5}{QAs}{120}{0}{5}
+\beamer@sectionintoc {3}{Python Data Structures}{69}{0}{3}
+\beamer@sectionintoc {4}{Pandas}{93}{0}{4}
+\beamer@sectionintoc {5}{QAs}{117}{0}{5}
